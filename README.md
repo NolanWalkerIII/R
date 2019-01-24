@@ -1,2 +1,2 @@
 # R
-Meant to hold R code OR R documentation
+Meant to hold R code or R documentation
